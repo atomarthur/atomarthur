@@ -4,7 +4,6 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Formado como Técnico em Informática
-- Focado em desenvolvimento de software
 - Barreiras, Bahia
 
 <div align="left">
